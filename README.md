@@ -1,5 +1,5 @@
 # Hamid Mehmood
-[![Linkedin Badge](https://img.shields.io/badge/-Hamid-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hamid-mehmood-602175205/)](https://www.linkedin.com/in/hamid2117/)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hamid-mehmood-602175205/)](https://www.linkedin.com/in/hamid2117/)
 [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-c14438?style=flat-square&logo=portfolio&logoColor=white&link=https://hamidmehmood.vercel.app)](https://hamidmehmood.vercel.app)
 [![Dev.to Badge](https://img.shields.io/badge/-@Hamid-03a57a?style=flat-square&labelColor=000000&logo=dev.to&link=https://dev.to/hamid2117)](https://dev.to/hamid2117)
 [![Gmail Badge](https://img.shields.io/badge/-hamidmehmood2121@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hamidmehmood21@outlook.com)](mailto:hamidmehmood2121@gmail.com)
@@ -28,7 +28,9 @@ I am a passionate **Full-stack Developer** with expertise in creating robust, sc
 ---
 
  ### Tech & Tools Preference
-<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"><img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff"><img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white"><img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"><img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
+<img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white">
 <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white">
 <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black">
 <img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white">
