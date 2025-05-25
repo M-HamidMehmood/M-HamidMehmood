@@ -54,6 +54,6 @@ I am a passionate **Full-stack Developer** with expertise in creating robust, sc
 ## Statistics
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=hamid2117&theme=synthwave&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Github Streak" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=m-hamidmehmood&theme=synthwave&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Github Streak" />
 </p>
 
